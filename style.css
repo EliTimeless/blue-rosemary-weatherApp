@@ -1,0 +1,93 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin: 50px auto;
+}
+i {
+  color: #0d576c;
+}
+.main {
+  border: solid 2px #afd3e2;
+  background-color: #f5e3e3;
+  border-radius: 20px;
+  margin-top: 40px;
+  padding: 20px 20px;
+}
+
+a {
+  color: #146c94;
+}
+a:hover {
+  color: #19a7ce;
+}
+form {
+  text-align: left;
+  font-size: 20px;
+  margin: 30px 20px 10px 20px;
+}
+input {
+  padding: 5px 20px;
+  border-radius: 30px;
+  text-align: center;
+  font-style: italic;
+  box-shadow: 5px 5px 5px #b4c8d1;
+  border: solid 2px black;
+}
+
+.submit {
+  color: #f9f9f9;
+  background-color: #6698af;
+}
+#current-location {
+  color: black;
+}
+#current-location:hover {
+  color: #146c94;
+}
+
+.btn {
+  text-align: left;
+  font-size: 19px;
+  font-style: italic;
+  border: solid 2px black;
+  border-radius: 30px;
+  box-shadow: 5px 5px 5px #b4c8d1;
+  padding: 5px 20px;
+  margin: 0 10px;
+}
+
+#curr-date {
+  color: #053d4c;
+  font-weight: bold;
+  text-align: left;
+  margin: 0 10px;
+}
+
+.first,
+.second {
+  font-size: 30px;
+  color: #041118;
+}
+
+.other-days {
+  color: #146c94;
+  text-align: left;
+  font-weight: bold;
+  font-size: 30px;
+  margin: 10px 20px;
+}
+.card-group {
+  border: 1px solid #99dbf5;
+}
+.card-title {
+  font-weight: bold;
+  font-size: 20px;
+}
+.card-text {
+  font-size: 20px;
+}
+
+.open-source {
+  display: block;
+  margin: 0 10px;
+}
